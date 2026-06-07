@@ -417,8 +417,9 @@ footer {
   left: 0;
   width: 0;
   height: 4px;
-  background: #00d4ff;
+  background: #8b5cf6;
   z-index: 9999;
+  box-shadow: 0 0 10px #8b5cf6;
 }
 
 #topBtn {
